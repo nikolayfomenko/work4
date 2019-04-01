@@ -1,0 +1,21 @@
+body{
+	background: #1c8b7d;
+}
+.main{
+	width: 1600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.flex{
+	display: flex;
+}
+.text{
+    background: white;
+    padding-left: 30px;
+    font-family: arial;
+}
+h1{
+	color: white;
+	font-family: arial;
+	margin-left: 20px;
+}
